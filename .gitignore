@@ -1,0 +1,6 @@
+/target
+/logs
+.envrc
+.claude
+CLAUDE.md
+.config
